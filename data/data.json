@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nombre": "Apple Iphone 14 Pro Max",
+        "precio": 1400,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704099/Proyecto%20-%20New%20Phone/1-iphone-14-pro-max_cvdlhn.png"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Apple Iphone 13 Pro Max",
+        "precio": 1200,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704094/Proyecto%20-%20New%20Phone/2-iphone-13-pro-max_derph2.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Samsung Galaxy S22 Ultra",
+        "precio": 1200,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704095/Proyecto%20-%20New%20Phone/3-samsung-galaxy-S22-ultra_n6yogj.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Apple Iphone 14 Pro",
+        "precio": 1100,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704093/Proyecto%20-%20New%20Phone/4-iphone-14-pro_rksoko.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "Apple Iphone 13 Pro",
+        "precio": 900,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704093/Proyecto%20-%20New%20Phone/5-iphone-13-pro_gguibn.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Samsung Galaxy Z3 Fold",
+        "precio": 1000,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704095/Proyecto%20-%20New%20Phone/6-samsung-z-fold-3_iwhz4h.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Samsung Galaxy S21 FE",
+        "precio": 600,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704097/Proyecto%20-%20New%20Phone/7-samsung-s21-fe_vs5cfc.png"
+    },    {
+        "id": 8,
+        "nombre": "Samsung Galaxy S20 FE",
+        "precio": 400,
+        "imagen": "https://res.cloudinary.com/dfhc2y5yk/image/upload/v1665704095/Proyecto%20-%20New%20Phone/8-samsung-s20-fe_rfhqjh.png"
+    }
+]
+
